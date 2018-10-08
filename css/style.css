@@ -1,0 +1,67 @@
+.title {
+  background-color: #EFEFEF;
+}
+
+.cui {
+  color: #BA1826;
+}
+
+.p-20 {
+  padding: 100px;
+}
+
+.link {
+  color: white;
+  font-weight: bold;
+  font-size: 1.25rem;
+}
+
+img.logo-img {
+  margin-bottom: 57px;
+}
+
+.text-center {
+  width: 100%;
+}
+.transformation {
+  transform: rotate(-90deg);
+}
+
+.banner_info p {
+  color: black;
+  font-weight: 800;
+  font-size: 1.4rem;
+  text-align: center;
+  position: absolute;
+  width: 100%;
+  top: 50%;
+  background-color: rgba(255,255,255,0.6);
+}
+
+img.banner_image {
+  position: relative;
+  width: 100%;
+}
+
+img {
+  width: 100%;
+}
+
+.cote p{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%) rotate(-90deg);
+
+}
+
+.more {
+  cursor: pointer;
+  transition: all ease 0.5s;
+}
+
+.more:hover {
+  background-color: aquamarine !important;
+  color: white;
+  padding-left: 100%
+}
